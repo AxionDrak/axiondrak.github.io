@@ -2,17 +2,27 @@
 layout: default
 ---
 
+Website containing my personal projects.
+
+Currently 2 projects are in progress:
+
+* PSX/2 CNF Creator
+* FreeMcBoot Configurator
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# PSX/2 CNF Creator
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+PSX/2 CNF Creator is software for creating SYSTEM.CNF files for PSOne(PS1) and PSTwo (PS2) consoles.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# FreeMcBoot Configurator
+
+
 
 ## Header 2
 
