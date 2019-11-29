@@ -4,11 +4,6 @@ layout: default
 
 Site dedicated to my personal projects developed in C# language (among others).
 
-Currently with 2 ongoing projects:
-
-* PSX/2 CNF Creator
-* FreeMcBoot Configurator
-
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
@@ -19,10 +14,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # My Projects:
 
-PSX/2 CNF Creator is a small tool for creating SYSTEM.CNF files compatible with PSOne (PS1) and PSTwo (PS2) consoles, being mainly used for disk homebrews.
+Currently with 2 ongoing projects:
+
+* PSX/2 CNF Creator
+* FreeMcBoot Configurator
 
 ## PSX/2 CNF Creator
 PSX/2 CNF Creator is a small tool for creating SYSTEM.CNF files compatible with PSOne (PS1) and PSTwo (PS2) consoles, being mainly used for disk homebrews.
+
+#### Official page:
+
+*   GitHub: https://github.com/AxionDrak/PSX2CNFCreator
+
 
 #### Download:
 
