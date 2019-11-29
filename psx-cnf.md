@@ -19,7 +19,7 @@ layout: default
 
 * ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator 1.3 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3)
 
-* ![useful image]({{ site.url }}/assets/images/exe-icon.png) [Requires .NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=30653)
+* ![useful image]({{ site.url }}/assets/images/exe-icon.png) [Requires .NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=30653) (Web installer)
 
 ## Hash
 * * *
