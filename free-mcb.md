@@ -77,8 +77,11 @@ So please don't mind the badly designed spaghetti code. :P
 		<span class="trs prev"></span>
 
 		<div id="slider">
-			<a href="#" class="trs"><img src="imagem1.jpg" alt="Legenda da imagem 1" /></a>
-			<a href="#" class="trs"><img src="imagem2.jpg" alt="Legenda da imagem 2" /></a>		
+			<a href="#" class="trs"><img src="/img/free-mcb-conf_01.jpg" alt="Legenda da imagem 1" /></a>
+			<a href="#" class="trs"><img src="/img/free-mcb-conf_02.jpg" alt="Legenda da imagem 2" /></a>
+      <a href="#" class="trs"><img src="/img/free-mcb-conf_03.jpg" alt="Legenda da imagem 3" /></a>
+      <a href="#" class="trs"><img src="/img/free-mcb-conf_04.jpg" alt="Legenda da imagem 4" /></a>
+      <a href="#" class="trs"><img src="/img/free-mcb-conf_05.jpg" alt="Legenda da imagem 5" /></a>		
 		</div>
 
 		<figcaption></figcaption>
