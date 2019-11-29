@@ -14,4 +14,4 @@ layout: default
 
 * [FreeMcBoot Configurator - ALPHA PREVIEW VERSION (NOT FUNCTIONAL!!!)](https://github.com/AxionDrak/FreeMCBootConfigurator/releases/tag/0.0.1.0)
 
-[back](./)
+<<[back](./)
