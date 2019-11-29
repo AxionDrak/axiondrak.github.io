@@ -20,7 +20,7 @@ So please don't mind the badly designed spaghetti code. :P
 	<img src="assets/images/free-mcb-conf_01.jpg" alt="Minimum required attributes">
 	<img data-src="assets/images/free-mcb-conf_02.jpg" src="" alt="Use data-src for on-demand loading">
 	<img data-src="assets/images/free-mcb-conf_03.jpg" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
-	<a href="http://example.com"><img data-src="assets/images/free-mcb-conf_04.jpg" src="" alt="Links work too"></a>
+	[<a href="http://example.com">](<img data-src="./assets/images/free-mcb-conf_04.jpg" src="" alt="Links work too"></a>)
 </div>
 
 [1](./assets/images/free-mcb-conf_01.jpg)
