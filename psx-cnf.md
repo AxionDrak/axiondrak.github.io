@@ -38,7 +38,6 @@ Use the table below to ensure that downloaded files do not change. These values 
 * Supports Dummy file creation (gargabe)
 * Automatically corrects the file format SYSTEM.CNF
 * CLEAR option added as facilitator
-
 - Compatible (tested) with the following operating systems:
   - Windows 7
   - Windows 8
