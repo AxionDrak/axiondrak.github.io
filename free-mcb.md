@@ -15,23 +15,11 @@ I'm just a self-taught software developer and decided to start learning C#. :)
 So please don't mind the badly designed spaghetti code. :P
 
 # Images
-
-<div id="slider">
-	<img src="assets/images/free-mcb-conf_01.jpg" alt="Minimum required attributes">
-	<img data-src="assets/images/free-mcb-conf_02.jpg" src="" alt="Use data-src for on-demand loading">
-	<img data-src="assets/images/free-mcb-conf_03.jpg" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
-	[<a href="http://example.com">](<img data-src="./assets/images/free-mcb-conf_04.jpg" src="" alt="Links work too"></a>)
-</div>
-
-[1](./assets/images/free-mcb-conf_01.jpg)
-[2](./assets/images/free-mcb-conf_02.jpg)
-[3](./assets/images/free-mcb-conf_03.jpg)
-[4](./assets/images/free-mcb-conf_04.jpg)
-[5](./assets/images/free-mcb-conf_05.jpg)
-
-![5](./assets/images/free-mcb-conf_05.jpg)
-
+![useful image]({{ site.url }}/assets/images/free-mcb-conf_01.jpg)
+![useful image]({{ site.url }}/assets/images/free-mcb-conf_02.jpg)
+![useful image]({{ site.url }}/assets/images/free-mcb-conf_03.jpg)
 ![useful image]({{ site.url }}/assets/images/free-mcb-conf_04.jpg)
+![useful image]({{ site.url }}/assets/images/free-mcb-conf_05.jpg)
 
 
 #### Official page:
