@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 Website containing my personal projects.
 
 Currently 2 projects are in progress:
