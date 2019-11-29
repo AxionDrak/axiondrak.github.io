@@ -16,7 +16,7 @@ Copyright 2019, Laete Meireles (a.k.a Axion Drak), Licenced under GNU Free Licen
 * [PSX/2 CNF Creator 1.3 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3)
 
 ## Hash
------------------
+* * *
 Use the table below to ensure that downloaded files do not change. These values are for files in their compiled (final) version.
 
 | Filename                    | MD5                                     | SHA256                                   |
@@ -26,7 +26,7 @@ Use the table below to ensure that downloaded files do not change. These values 
 | README.md                   | decd4c5a9deac5c961e19989a9608b00        | e3af297778f8bb90b6e85b7271dd2d1ddab3d1e5385e0bca39e8a9058079129e   |
 
 ## Features
-------------
+* * *
 * Supports create SYSTEM.CNF files (for PSOne and PSTwo)
 * Supports any ELF file (PSOne and PSTwo)
 * Supports file and program versioning (PSTwo)
@@ -45,12 +45,11 @@ Use the table below to ensure that downloaded files do not change. These values 
   - Windows 10
 
 ## Languages
-------------
+* * *
 * At the moment, only Brazilian Portuguese is supported (sorry :/)
 
-
 ## SYSTEM.CNF
---------------
+* * *
 The structure of the SYSTEM.CNF file is different for PSOne and PSTwo consoles.
 
 Below are two examples of this file:
@@ -72,7 +71,7 @@ HDDUNITPOWER = NICHDD (Optional)
 ```
 
 ## Report Bugs
----------------
+* * *
 Verify that the bug is reproducible and still occurs in the latest version of SVN/Daily build.
 
 Also check the list of known issues (below) to ensure the issue is not yet known:
@@ -80,15 +79,15 @@ Also check the list of known issues (below) to ensure the issue is not yet known
 Include the following information:
 * PSX/2 CNF Creator version (try the latest version of SVN/Daily build)
 * Bug details, including playback instructions
-* Operating System (Windows 8/8.1/10)
+* Operating System (Windows 7/8/8.1/10)
 * Attach an image if possible
 
 ## Known Issues
-----------------
+* * *
 * No problem reported :)
 
 ## Changelog
--------------
+* * *
 v1.3
 November 18, 2019
 * Added support for creating Dummy (gargabe) files to fill CD/DVD discs.
@@ -119,15 +118,15 @@ November 10, 2019
 * Initial release BETA
 
 ## Compile
------------
+* * *
 See _COMPILE_ file for how to compile and install PSX/2 CNF Creator.
 
 ## Documentation
------------------
+* * *
 See _README_ for PSX/2 CNF Creator information.
 
 ## License
------------
+* * *
 This project is released under the GNU license. If you redistribute the binary
 or source code of PSX/2 CNF Creator, please attach file _LICENSE_ with your products.
 
