@@ -6,6 +6,14 @@ layout: default
 
 **FreeMcBoot Configurator** is a tool for creating _FREEMCB.CNF_ files compatible with **Free McBoot**.
 
+## ATTENTION!!!
+----------------
+**This software is experimental!**
+
+I'm just a self-taught software developer and decided to start learning C#. :)
+
+So please don't mind the badly designed spaghetti code. :P
+
 #### Official page:
 
 * [FreeMcBoot Configurator - GitHub](https://github.com/AxionDrak/FreeMCBootConfigurator)
@@ -16,7 +24,7 @@ layout: default
 
 ## Hash
 * * *
-Use the table below to ensure that downloaded files do not change. These values are for files in their compiled (Alpha Preview Version) version.
+Use the table below to ensure that downloaded files do not change. These values are for files in their compiled (Alpha Preview) version.
 
 | Filename                    | MD5                              | SHA256                                                           |
 | --------------------------- | ---------------------------------|----------------------------------------------------------------- |
@@ -27,8 +35,20 @@ Use the table below to ensure that downloaded files do not change. These values 
 
 
 
+## Compile
+* * *
+See _COMPILE_ file for how to compile and install FreeMcBoot Configurator.
 
+## Documentation
+* * *
+See _README_ for FreeMcBoot Configurator information.
 
+## License
+* * *
+This project is released under the GNU license. If you redistribute the binary or source code of FreeMcBoot Configurator, please attach file _LICENSE_ with your products.
+Review LICENSE file for further details.
 
+* * *
+Copyright 2019, Laete Meireles (a.k.a Axion Drak)
 
 <<[back](./)
