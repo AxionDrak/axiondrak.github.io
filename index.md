@@ -10,22 +10,22 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 # My Projects:
 
-Currently with 2 ongoing projects:
+Currently with 2 ongoing projects (Click on the links to access the corresponding pages):
 
-* PSX/2 CNF Creator
-* FreeMcBoot Configurator
+* [PSX/2 CNF Creator]
+* [FreeMcBoot Configurator]
 
 ## PSX/2 CNF Creator
 PSX/2 CNF Creator is a small tool for creating SYSTEM.CNF files compatible with PSOne (PS1) and PSTwo (PS2) consoles, being mainly used for disk homebrews.
 
 #### Official page:
 
-*   [PSX/2 CNF Creator - GitHub](https://github.com/AxionDrak/PSX2CNFCreator)
+* [PSX/2 CNF Creator - GitHub](https://github.com/AxionDrak/PSX2CNFCreator)
 
 
 #### Download:
 
-*   [PSX/2 CNF Creator 1.3 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3)
+* [PSX/2 CNF Creator 1.3 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3)
 
 > This is a blockquote following a header.
 >
