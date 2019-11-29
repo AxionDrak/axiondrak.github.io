@@ -24,6 +24,9 @@ So please don't mind the badly designed spaghetti code. :P
 
 ![5](./assets/images/free-mcb-conf_05.jpg)
 
+![useful image]({{ site.url }}/assets/images/free-mcb-conf_04.jpg)
+
+
 #### Official page:
 
 * [FreeMcBoot Configurator - GitHub](https://github.com/AxionDrak/FreeMCBootConfigurator)
