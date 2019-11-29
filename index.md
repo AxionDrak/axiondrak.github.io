@@ -24,7 +24,7 @@ PSX/2 CNF Creator is a small tool for creating SYSTEM.CNF files compatible with 
 
 #### Official page:
 
-*   GitHub: https://github.com/AxionDrak/PSX2CNFCreator
+*   [GitHub](https://github.com/AxionDrak/PSX2CNFCreator)
 
 
 #### Download:
