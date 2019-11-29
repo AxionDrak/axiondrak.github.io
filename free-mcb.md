@@ -46,6 +46,12 @@ Use the table below to ensure that downloaded files do not change. These values 
 * * *
 * At the moment, only English is supported (sorry :/)
 
+## Changelog
+* * *
+`v0.0.1.0 - Alpha Preview`
+November 27, 2019
+* Preview version for demonstration of the graphical interface (GUI). **No features are functional!**
+
 ## Compile
 * * *
 See _COMPILE_ file for how to compile and install FreeMcBoot Configurator.
