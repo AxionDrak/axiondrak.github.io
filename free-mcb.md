@@ -16,16 +16,12 @@ So please don't mind the badly designed spaghetti code. :P
 
 # Images
 
-```html
 <div id="slider">
 	<img src="img/1.jpg" alt="Minimum required attributes">
 	<img data-src="img/2.jpg" src="" alt="Use data-src for on-demand loading">
 	<img data-src="img/3.jpg" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
 	<a href="http://example.com"><img data-src="assets/images/free-mcb-conf_01.jpg" src="" alt="Links work too"></a>
-	...
 </div>
-```
-
 
 [1](./assets/images/free-mcb-conf_01.jpg)
 [2](./assets/images/free-mcb-conf_02.jpg)
