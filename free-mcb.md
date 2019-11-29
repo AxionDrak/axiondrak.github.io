@@ -22,6 +22,8 @@ So please don't mind the badly designed spaghetti code. :P
 [4](./img/free-mcb-conf_04.jpg)
 [5](./img/free-mcb-conf_05.jpg)
 
+![5](./img/free-mcb-conf_05.jpg)
+
 #### Official page:
 
 * [FreeMcBoot Configurator - GitHub](https://github.com/AxionDrak/FreeMCBootConfigurator)
