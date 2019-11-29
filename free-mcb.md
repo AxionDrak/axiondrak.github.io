@@ -18,7 +18,7 @@ So please don't mind the badly designed spaghetti code. :P
 
 <div id="myCarousel" class="carousel slide container" style="height: 400px;width: 500px; margin: 0 auto" data-ride="carousel">
 		<div class="carousel-inner">
-								<div class="item active">
+  				<div class="item active">
 							<a href="#" data-img-url="img/free-mcb-conf_01.png" class="carrouselImg"><img src="img/free-mcb-conf_01.png"/></a>
 					</div>					<div class="item">
 							<a href="#" data-img-url="img/free-mcb-conf_02.jpg" class="carrouselImg"><img src="img/free-mcb-conf_02.jpg"/></a>
@@ -30,16 +30,17 @@ So please don't mind the badly designed spaghetti code. :P
 							<a href="#" data-img-url="img/free-mcb-conf_05.jpg" class="carrouselImg"><img src="img/free-mcb-conf_05.jpg"/></a>
 					</div>					<div class="item">
 							<a href="#" data-img-url="img/free-mcb-conf_06.jpg" class="carrouselImg"><img src="img/free-mcb-conf_06.jpg"/></a>
-					</div>		</div>
+		</div>
+</div>
 		<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-		<span class="sr-only">Previous</span>
+		    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		    <span class="sr-only">Previous</span>
 		</a>
 		<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-		<span class="sr-only">Next</span>
+		    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		    <span class="sr-only">Next</span>
 		</a>
-	</div>
+</div>
 
 #### Official page:
 
