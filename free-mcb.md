@@ -14,4 +14,21 @@ layout: default
 
 * [FreeMcBoot Configurator - ALPHA PREVIEW VERSION (NOT FUNCTIONAL!!!)](https://github.com/AxionDrak/FreeMCBootConfigurator/releases/tag/0.0.1.0)
 
+## Hash
+* * *
+Use the table below to ensure that downloaded files do not change. These values are for files in their compiled (Alpha Preview Version) version.
+
+| Filename                    | MD5                              | SHA256                                                           |
+| --------------------------- | ---------------------------------|----------------------------------------------------------------- |
+| LICENSE                     | e62637ea8a114355b985fd86c9ffbd6e | 230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809 |
+| FMCBootConfigurator_APV.exe | b8676883b2bd4ffc1fd19b1abeb4b9cc | b433ea04213383413ef96b965a9b48281b84a1ec4d4579e81a17bccd26faffe4 |
+| README.md                   | 536643ae2f8e1ad86ccc731a3c8049ea | 6995ddc6e286be362ef6c819587d71e3d811f6d87532837f428bffbe72734a64 |
+
+
+
+
+
+
+
+
 <<[back](./)
