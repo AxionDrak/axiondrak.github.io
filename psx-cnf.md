@@ -88,32 +88,32 @@ Include the following information:
 
 ## Changelog
 * * *
-v1.3
+`v1.3`
 November 18, 2019
 * Added support for creating Dummy (gargabe) files to fill CD/DVD discs.
 
-v1.2
+`v1.2`
 November 17, 2019
 * Added support for choosing directory to save SYSTEM.CNF file
 * Added program information screen
 * Added donation option via PayPal ;)
 
-v1.1
+`v1.1`
 November 16, 2019
 * Added full support of SYSTEM.CNF for PSOne
 * Stability corrections
 
-v1.0 - Release To Manufacturing (RTM)
+`v1.0 - Release To Manufacturing (RTM)`
 November 15, 2019
 * Added HDDUNITPOWER (PSTwo) support
 * Added reset option (CLEAR) all settings
 
-v0.50 - RC Version (Release Candidate)
+`v0.50 - RC Version (Release Candidate)`
 November 14, 2019
 * Added full support of SYSTEM.CNF for PSTwo
 * Stability corrections
 
-v0.10 - Beta Version
+`v0.10 - Beta Version`
 November 10, 2019
 * Initial release BETA
 
