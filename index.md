@@ -2,7 +2,12 @@
 layout: default
 ---
 
-Welcome to my personal projects site...
+Site dedicated to my personal projects developed in C# language (among others).
+
+Currently with 2 ongoing projects:
+
+* PSX/2 CNF Creator
+* FreeMcBoot Configurator
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
