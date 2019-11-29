@@ -48,7 +48,7 @@ Use the table below to ensure that downloaded files do not change. These values 
 ------------
 * At the moment, only Brazilian Portuguese is supported (sorry :/)
 
----
+
 ## SYSTEM.CNF
 --------------
 The structure of the SYSTEM.CNF file is different for PSOne and PSTwo consoles.
