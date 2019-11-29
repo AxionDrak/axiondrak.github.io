@@ -19,7 +19,6 @@ So please don't mind the badly designed spaghetti code. :P
 ![useful image]({{ site.url }}/assets/images/free-mcb-conf_03.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_04.jpg)
 ![useful image]({{ site.url }}/assets/images/free-mcb-conf_05.jpg)
 
-
 #### Official page:
 
 * [FreeMcBoot Configurator - GitHub](https://github.com/AxionDrak/FreeMCBootConfigurator)
