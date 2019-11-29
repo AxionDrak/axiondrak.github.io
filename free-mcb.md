@@ -14,6 +14,33 @@ I'm just a self-taught software developer and decided to start learning C#. :)
 
 So please don't mind the badly designed spaghetti code. :P
 
+# Images
+
+<div id="myCarousel" class="carousel slide container" style="height: 400px;width: 500px; margin: 0 auto" data-ride="carousel">
+		<div class="carousel-inner">
+								<div class="item active">
+							<a href="#" data-img-url="img/OPLM_V21.5_01.png" class="carrouselImg"><img src="img/OPLM_V21.5_01.png"/></a>
+					</div>					<div class="item">
+							<a href="#" data-img-url="img/OPLM_V21.2_02.jpg" class="carrouselImg"><img src="img/OPLM_V21.2_02.jpg"/></a>
+					</div>					<div class="item">
+							<a href="#" data-img-url="img/OPLM_V21.2_03.jpg" class="carrouselImg"><img src="img/OPLM_V21.2_03.jpg"/></a>
+					</div>					<div class="item">
+							<a href="#" data-img-url="img/OPLM_V21.2_04.jpg" class="carrouselImg"><img src="img/OPLM_V21.2_04.jpg"/></a>
+					</div>					<div class="item">
+							<a href="#" data-img-url="img/OPLM_V21.2_05.jpg" class="carrouselImg"><img src="img/OPLM_V21.2_05.jpg"/></a>
+					</div>					<div class="item">
+							<a href="#" data-img-url="img/OPLM_V21.2_06.jpg" class="carrouselImg"><img src="img/OPLM_V21.2_06.jpg"/></a>
+					</div>		</div>
+		<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+		</a>
+		<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+		<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+		</a>
+	</div>
+
 #### Official page:
 
 * [FreeMcBoot Configurator - GitHub](https://github.com/AxionDrak/FreeMCBootConfigurator)
