@@ -16,13 +16,13 @@ So please don't mind the badly designed spaghetti code. :P
 
 # Images
 
-[1](./img/free-mcb-conf_01.jpg)
-[2](./img/free-mcb-conf_02.jpg)
-[3](./img/free-mcb-conf_03.jpg)
-[4](./img/free-mcb-conf_04.jpg)
-[5](./img/free-mcb-conf_05.jpg)
+[1](./assets/images/free-mcb-conf_01.jpg)
+[2](./assets/images/free-mcb-conf_02.jpg)
+[3](./assets/images/free-mcb-conf_03.jpg)
+[4](./assets/images/free-mcb-conf_04.jpg)
+[5](./assets/images/free-mcb-conf_05.jpg)
 
-![5](./img/free-mcb-conf_05.jpg)
+![5](./assets/images/free-mcb-conf_05.jpg)
 
 #### Official page:
 
