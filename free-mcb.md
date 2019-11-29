@@ -16,11 +16,11 @@ So please don't mind the badly designed spaghetti code. :P
 
 # Images
 
-[](<img src="img/free-mcb-conf_01.jpg" alt="some text" width=504 height=559>)
-[](<img src="img/free-mcb-conf_02.jpg" alt="some text" width=504 height=559>)
-[](<img src="img/free-mcb-conf_03.jpg" alt="some text" width=504 height=559>)
-[](<img src="img/free-mcb-conf_04.jpg" alt="some text" width=504 height=559>)
-[](<img src="img/free-mcb-conf_05.jpg" alt="some text" width=504 height=559>)
+[1](<img src="img/free-mcb-conf_01.jpg" alt="some text" width=504 height=559>)
+[2](<img src="img/free-mcb-conf_02.jpg" alt="some text" width=504 height=559>)
+[3](<img src="img/free-mcb-conf_03.jpg" alt="some text" width=504 height=559>)
+[4](<img src="img/free-mcb-conf_04.jpg" alt="some text" width=504 height=559>)
+[5](<img src="img/free-mcb-conf_05.jpg" alt="some text" width=504 height=559>)
 
 #### Official page:
 
