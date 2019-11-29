@@ -14,7 +14,7 @@ I'm just a self-taught software developer and decided to start learning C#. :)
 
 So please don't mind the badly designed spaghetti code. :P
 
-# Images
+## Images
 ![useful image]({{ site.url }}/assets/images/free-mcb-conf_01.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_02.jpg)
 ![useful image]({{ site.url }}/assets/images/free-mcb-conf_03.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_04.jpg)
 ![useful image]({{ site.url }}/assets/images/free-mcb-conf_05.jpg)
