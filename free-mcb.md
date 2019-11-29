@@ -55,7 +55,7 @@ See _README_ for FreeMcBoot Configurator information.
 ## License
 * * *
 This project is released under the GNU license. If you redistribute the binary or source code of FreeMcBoot Configurator, please attach file _LICENSE_ with your products.
-Review LICENSE file for further details.
+Review _LICENSE_ file for further details.
 
 * * *
 Copyright 2019, Laete Meireles (a.k.a Axion Drak)
