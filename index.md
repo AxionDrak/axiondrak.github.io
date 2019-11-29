@@ -9,20 +9,16 @@ Currently 2 projects are in progress:
 * PSX/2 CNF Creator
 * FreeMcBoot Configurator
 
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
 # PSX/2 CNF Creator
 
-PSX/2 CNF Creator is software for creating _SYSTEM.CNF_ files for PSOne(PS1) and PSTwo (PS2) consoles.
+**PSX/2 CNF Creator** is software for creating _SYSTEM.CNF_ files for PSOne (PS1) and PSTwo (PS2) consoles.
 
 
 # FreeMcBoot Configurator
 
-FreeMcBoot Configurator is software for creating _FREEMCB.CNF_ files for the FreeMcBoot app.
+**FreeMcBoot Configurator** is software for creating _FREEMCB.CNF_ files for the FreeMcBoot app.
 
 ## Header 2
 
