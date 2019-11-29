@@ -16,7 +16,7 @@ So please don't mind the badly designed spaghetti code. :P
 
 ## Images
 * * *
-![useful image]({{ site.url }}/assets/images/free-mcb-conf_01.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_02.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_03.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_04.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_05.jpg)
+![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_01.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_02.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_03.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_04.jpg)![useful image]({{ site.url }}/assets/images/free-mcb-conf_05.jpg)
 
 #### Official page:
 
