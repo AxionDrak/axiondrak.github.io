@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Welcome to my personal projects site...
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
