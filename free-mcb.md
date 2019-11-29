@@ -17,29 +17,7 @@ So please don't mind the badly designed spaghetti code. :P
 # Images
 
 
-<script>
-	(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/pt_PT/sdk.js#xfbml=1&version=v2.8&appId=370428296644435";
-		fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-	<script>
-	$(document).ready(function() {
-		$(document).on('click', '.carrouselImg', function () {
-				$('#myModal img').attr('src', $(this).attr('data-img-url'));
-				$('#myModal').modal('show');
-		});
-	});
-
-	$(document).ready(function() {
-		$(document).on('click', '#bitcoin', function () {
-				$('#myModal img').attr('src', $(this).attr('data-img-url'));
-				$('#myModal').modal('show');
-		});
-	});
-</script>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
 
 <div id="myCarousel" class="carousel slide container" style="height: 400px;width: 500px; margin: 0 auto" data-ride="carousel">
 		<div class="carousel-inner">
