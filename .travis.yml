@@ -1,6 +1,8 @@
-language: ruby
+language: ruby node_js
 cache: bundler
 rvm: 2.6
 
 install: script/bootstrap
 script: script/cibuild
+before_script:
+  - npm install -g grunt-cli
