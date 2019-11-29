@@ -26,7 +26,7 @@ So please don't mind the badly designed spaghetti code. :P
 
 #### Download:
 
-* ![useful image]({{ site.url }}/assets/images/zip-icon.png)[FreeMcBoot Configurator - ALPHA PREVIEW VERSION (NOT FUNCTIONAL!!!)](https://github.com/AxionDrak/FreeMCBootConfigurator/releases/tag/0.0.1.0)
+* ![useful image]({{ site.url }}/assets/images/zip-icon.png)[FreeMcBoot Configurator - ALPHA PREVIEW VERSION](https://github.com/AxionDrak/FreeMCBootConfigurator/releases/tag/0.0.1.0) NOT FUNCTIONAL!!!
 
 ## Hash
 * * *
