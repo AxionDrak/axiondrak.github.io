@@ -18,12 +18,12 @@ So please don't mind the badly designed spaghetti code. :P
 * * *
 ![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_01.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_02.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_03.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_04.jpg)![useful image]({{ site.url }}/assets/images/freemcboot/free-mcb-conf_05.jpg)
 
-#### Official page:
-
+## Official page:
+* * *
 * [FreeMcBoot Configurator - GitHub](https://github.com/AxionDrak/FreeMCBootConfigurator)
 
-#### Download:
-
+## Downloads:
+* * *
 * ![useful image]({{ site.url }}/assets/images/zip-icon.png) [FreeMcBoot Configurator - ALPHA PREVIEW VERSION](https://github.com/AxionDrak/FreeMCBootConfigurator/releases/tag/0.0.1.0) (NOT FUNCTIONAL!!!)
 
 * ![useful image]({{ site.url }}/assets/images/exe-icon.png) [Requires .NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=30653) (Web installer)
