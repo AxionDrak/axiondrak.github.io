@@ -26,6 +26,9 @@ So please don't mind the badly designed spaghetti code. :P
 
 * ![useful image]({{ site.url }}/assets/images/zip-icon.png) [FreeMcBoot Configurator - ALPHA PREVIEW VERSION](https://github.com/AxionDrak/FreeMCBootConfigurator/releases/tag/0.0.1.0) (NOT FUNCTIONAL!!!)
 
+* ![useful image]({{ site.url }}/assets/images/exe-icon.png) Requires .NET Framework 4.5 Download Here
+
+
 ## Hash
 * * *
 Use the table below to ensure that downloaded files do not change. These values are for files in their compiled (Alpha Preview) version.
