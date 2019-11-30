@@ -11,7 +11,7 @@ layout: default
 * * *
 ![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.jpg)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.jpg)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
 
-## Official page:
+## Official Page on GitHub:
 * * *
 * [PSX/2 CNF Creator - GitHub](https://github.com/AxionDrak/PSX2CNFCreator)
 
