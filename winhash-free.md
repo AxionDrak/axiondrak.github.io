@@ -46,18 +46,18 @@ Use the table below to ensure that downloaded files do not change. These values 
 
 ## Changelog
 * * *
-`v1.3`
+`v1.0.0`
 December 1, 2019
 * Added support for hashing for any file type.
 * Added support for hashing checks for any file types.
 
 ## Documentation
 * * *
-See _README_ for PSX/2 CNF Creator information.
+See _README_ for WinHash Free information.
 
 ## License
 * * *
-This project is released under the GNU license. If you redistribute the binary or source code of PSX/2 CNF Creator, please attach file _LICENSE_ with your products.
+This project is released under the GNU license. If you redistribute the binary or source code of WinHash Free, please attach file _LICENSE_ with your products.
 Review _LICENSE_ file for further details.
 
 * * *
