@@ -6,6 +6,10 @@ layout: default
 * * *
 **WinHash Free** is a small program for creating and verifying hash data from any type of file.
 
+## Images
+* * *
+![useful image]({{ site.url }}/assets/images/winhash/winhashfree.png)
+
 ## Official Page on GitHub:
 * * *
 * [WinHash Free - GitHub](https://github.com/AxionDrak/WinHash-Free)
