@@ -6,7 +6,6 @@ layout: default
 * * *
 **PSX/2 CNF Creator** is a small tool for creating _SYSTEM.CNF_ files compatible with PSOne (PS1) and PSTwo (PS2) consoles, being mainly used for disk homebrews.
 
-
 ## Images
 * * *
 ![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.jpg)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.jpg)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
@@ -17,7 +16,7 @@ layout: default
 
 ## Downloads:
 * * *
-* ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator 1.3 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3)
+* ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator 1.3.0 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3)
 
 * ![useful image]({{ site.url }}/assets/images/exe-icon.png) [Requires .NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=30653) (Web installer)
 
