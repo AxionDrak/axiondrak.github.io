@@ -22,13 +22,16 @@ layout: default
 
 ## Hash
 * * *
-Use the table below to ensure that downloaded files do not change. These values are for files in their compiled (final) version.
+Use the table below to ensure that downloaded files have not changed. These values are for the latest stable version in its compiled (final) version.
+
+Version: 1.3.1
 
 | Filename           | MD5                              | SHA256                                                           |
 |:-------------------|:---------------------------------|:---------------------------------------------------------------- |
 | LICENSE            | e62637ea8a114355b985fd86c9ffbd6e | 230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809 |
-| PSX2CNFCreator.exe | 90744d245d6fbbb1a3c006b7c785d2e4 | c87ed73812ff767af19d2f8fc53bdd99c68dd491748014e241780d22ae51dbbf |
-| README.md          | decd4c5a9deac5c961e19989a9608b00 | e3af297778f8bb90b6e85b7271dd2d1ddab3d1e5385e0bca39e8a9058079129e |
+| PSX2CNFCreator.exe | dd0c35d018b24e87ec0f718252642e95 | ad125417a59c54f0e37b16e5a154cdf992b975ab9246d904f942fdd9844f49e9 |
+| README.md          | ce24dfe3b7bf8057205a0c2f2260de49 | f88f8ca858d3a7f04a79ef6fe945dd6573d72dcb3ddb53ad323b72cdcfad3a98 |
+| psxhelp.chm        | f8a91ea5e16e2f56716e92bd356631aa | 49060f2ae2a1cbf6553dbff77f076d02c3beb0c3596c215a6f1d064e1e467f5d |
 
 ## Features
 * * *
