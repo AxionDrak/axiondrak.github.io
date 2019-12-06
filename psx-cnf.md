@@ -8,7 +8,9 @@ layout: default
 
 ## Images
 * * *
-![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.jpg)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.jpg)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
+![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.jpg)
+![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.jpg)
+![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
 
 ## Official Page on GitHub:
 * * *
