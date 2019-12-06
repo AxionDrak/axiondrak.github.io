@@ -98,6 +98,17 @@ Include the following information:
 
 ## Changelog
 * * *
+`v1.3.1`
+December 06, 2019
+* Fixed SYSTEM.CNF file creation system for PSOne.
+  - You can now choose the directory where the file will be saved.
+* Rearranged the appearance of the graphical interface.
+* Removed instruction screen previously located in graphical interface.
+* Added "Display Help" option in the Help menu.
+  - You can now read the program manual through this menu. *(psxhelp.chm)*
+* Rewrite source code for improvement and cleanup.
+
+
 `v1.3.0`
 November 18, 2019
 * Added support for creating Dummy (gargabe) files to fill CD/DVD discs.
