@@ -17,7 +17,7 @@ layout: default
 
 ## Downloads:
 * * *
-* ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator 1.3.1 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.3.1)
+* ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator 1.4.0 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.4.0)
 
 * ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator - Old Versions](https://github.com/AxionDrak/PSX2CNFCreator/releases)
 
