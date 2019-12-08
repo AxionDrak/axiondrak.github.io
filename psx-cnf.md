@@ -8,7 +8,8 @@ layout: default
 
 ## Images
 * * *
-![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.png)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.png)![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
+![Modo PSOne]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.png)![Modo PSTwo]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.png)![Modo OPL Mini]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.png)
+![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
 
 ## Official Page on GitHub:
 * * *
