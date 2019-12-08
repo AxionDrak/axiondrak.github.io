@@ -39,10 +39,13 @@ Version: 1.3.1
 ## Features
 * * *
 * Supports create SYSTEM.CNF files _(PSOne and PSTwo)_
+* Supports create SYSTEM.CNF files for OPL Mini *(PSTwo)*
 * Supports any ELF file _(PSOne and PSTwo)_
+* Supports any KELF file *(OPL Mini for PSTwo)*
 * Supports file and program versioning _(PSTwo)_
 * Supports PAL and NTSC video modes _(PSTwo)_
 * Supports HDDUNITPOWER in NONE, HDD, NIC and NICHDD modes _(PSTwo)_
+  - OPL mini support only HDD, NIC and NICHDD modes
 * Supports TCB _(PSOne)_
 * Supports EVENT _(PSOne)_
 * Supports STACK _(PSOne)_
@@ -63,7 +66,7 @@ Version: 1.3.1
 * * *
 The structure of the SYSTEM.CNF file is different for PSOne and PSTwo consoles.
 
-Below are two examples of this file:
+Below are examples of this file:
 
 - SYSTEM.CNF _(PSOne)_
 ```
@@ -79,6 +82,14 @@ BOOT2 = cdrom0:\MY_ELF.ELF;1
 VER = 1.0
 VMODE = NTSC
 HDDUNITPOWER = NICHDD (Optional)
+```
+
+- SYSTEM.CNF *OPL Mini Mode (PSTwo)*
+```
+BOOT2 = pfs:/EXECUTE.KELF
+VER = B.99
+VMODE = NTSC
+HDDUNITPOWER = NICHDD
 ```
 
 ## Report Bugs
@@ -99,6 +110,14 @@ Include the following information:
 
 ## Changelog
 * * *
+
+`v1.4.0`
+December 08, 2019
+* Added support for OPL Mini (OPL Mini Mode).
+  - Available in PSTwo mode by selecting the OPL Mini Mode option.  
+* Validation system now uses REGEX.
+* Improved source code.
+
 `v1.3.1`
 December 06, 2019
 * Fixed SYSTEM.CNF file creation system for PSOne.
