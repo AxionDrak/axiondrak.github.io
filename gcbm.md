@@ -8,20 +8,16 @@ layout: default
 
 ## Images
 * * *
-![Modo PSOne]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.png)![Modo PSTwo]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.png)![Modo OPL Mini]({{ site.url }}/assets/images/psxcnf/oplmini_0001.png)
+![Tela Principal]({{ site.url }}/assets/images/psxcnf/psx-cnf-01.png)![Modo PSTwo]({{ site.url }}/assets/images/psxcnf/psx-cnf-02.png)![Modo OPL Mini]({{ site.url }}/assets/images/psxcnf/oplmini_0001.png)
 ![useful image]({{ site.url }}/assets/images/psxcnf/psx-cnf-03.jpg)
 
 ## Official Page on GitHub:
 * * *
-* [PSX/2 CNF Creator - GitHub](https://github.com/AxionDrak/PSX2CNFCreator)
+* [GCBM - GameCube Backup Manager]()
 
 ## Downloads:
 * * *
 * ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator 1.4.0 - Stable](https://github.com/AxionDrak/PSX2CNFCreator/releases/tag/v1.4.0)
-
-* ![useful image]({{ site.url }}/assets/images/zip-icon.png) [PSX/2 CNF Creator - Old Versions](https://github.com/AxionDrak/PSX2CNFCreator/releases)
-
-* ![useful image]({{ site.url }}/assets/images/exe-icon.png) [Requires .NET Framework 4.5](https://www.microsoft.com/en-US/download/details.aspx?id=30653) (Web installer)
 
 ## Hash
 * * *
@@ -39,21 +35,38 @@ Version: 1.4.0
 
 ## Features
 * * *
-* Supports create SYSTEM.CNF files _(PSOne and PSTwo)_
-* Supports create SYSTEM.CNF files for OPL Mini *(PSTwo)*
-* Supports any ELF file _(PSOne and PSTwo)_
-* Supports any KELF file *(OPL Mini for PSTwo)*
-* Supports file and program versioning _(PSTwo)_
-* Supports PAL and NTSC video modes _(PSTwo)_
-* Supports HDDUNITPOWER in NONE, HDD, NIC and NICHDD modes _(PSTwo)_
-  - OPL mini support only HDD, NIC and NICHDD modes
-* Supports TCB _(PSOne)_
-* Supports EVENT _(PSOne)_
-* Supports STACK _(PSOne)_
-* Supports Dummy file creation _(gargabe)_
-* Automatically corrects the file format SYSTEM.CNF
-* CLEAR option added as facilitator
-- Compatible _(tested)_ with the following operating systems:
+* Automatic creation of the 'games' folder (if it doesn't exist);
+* Read ISO and GCM files;
+* Transfer any ISO/GCM readable format to FAT32 or NTFS devices;
+* Transfer game files with the correct nomenclature (Game Name+ID or ID only);
+* Erase unwanted game files (source device only);
+* Display game information (region, publisher, genre, etc.);
+* Download game covers (Disc, 2D, 3D, FullHQ);
+* Individual skin download (for the selected game);
+* Global skin download (for all games listed!);
+* Download titles.txt (via GameTDB);
+* Download wiitdb.xml (via GameTDB);
+* Display game's ESRB rating;
+* MD5 Hash Calculation;
+* SHA-1 Hash Calculation;
+* Improved GameCube ISO detection system (99% accuracy);
+* XCopy system (allows 1:1 copies of files - STANDARD);
+* More polished, pleasant and less polluted interface;
+
+Systems being tested:
+
+* Plugins (now everything is customized);
+* GameCube ISO detection system using NKit (99% accuracy);
+* Creation of a custom Nincfg.bin file (Nincfg app configuration file);
+* Nintendont app installer (download from the official website and install the app);
+* Wipe system (similar to XCopy);
+* Scrub system (removes unnecessary data - garbage);
+* FST system (extraction of ISO files to virtual ISO);
+* Transfer skins for WiiFlow, WiiFlow Lite, WiiFlow Fusion apps;
+* Cover transfer for USB Loader GX, USB Loader GX Tab MOD apps;
+* Automatic program update system;
+* And a bunch of other things...
+* Compatible _(tested)_ with the following operating systems (Only 64-bit systems are supported!):
   - Windows 7
   - Windows 8
   - Windows 8.1
@@ -63,36 +76,6 @@ Version: 1.4.0
 * * *
 * At the moment, only Brazilian Portuguese is supported (sorry :/)
 
-## SYSTEM.CNF
-* * *
-The structure of the SYSTEM.CNF file is different for PSOne and PSTwo consoles.
-
-Below are examples of this file:
-
-- SYSTEM.CNF _(PSOne)_
-```
-BOOT = cdrom:\MY_ELF.ELF;1
-TCB = 4
-EVENT = 16
-STACK = 801FFFFC
-```
-
-- SYSTEM.CNF _(PSTwo)_
-```
-BOOT2 = cdrom0:\MY_ELF.ELF;1
-VER = 1.0
-VMODE = NTSC
-HDDUNITPOWER = NICHDD (Optional)
-```
-
-- SYSTEM.CNF *OPL Mini Mode (PSTwo)*
-```
-BOOT2 = pfs:/EXECUTE.KELF
-VER = B.99
-VMODE = NTSC
-HDDUNITPOWER = NICHDD
-```
-
 ## Report Bugs
 * * *
 Verify that the bug is reproducible and still occurs in the latest version of SVN/Daily build.
@@ -100,7 +83,7 @@ Verify that the bug is reproducible and still occurs in the latest version of SV
 Also check the list of known issues (below) to ensure the issue is not yet known:
 
 Include the following information:
-* PSX/2 CNF Creator version _(try the latest version of SVN/Daily build)_
+* GCBM version _(try the latest version of SVN/Daily build)_
 * Bug details, including playback instructions
 * Operating System _(Windows 7/8/8.1/10)_
 * Attach an image if possible
@@ -112,66 +95,11 @@ Include the following information:
 ## Changelog
 * * *
 
-`v1.4.0`
-December 08, 2019
-* Added support for OPL Mini (OPL Mini Mode).
-  - Available in PSTwo mode by selecting the OPL Mini Mode option.  
-* Validation system now uses REGEX.
-* Improved source code.
-
-`v1.3.1`
-December 06, 2019
-* Fixed SYSTEM.CNF file creation system for PSOne.
-  - You can now choose the directory where the file will be saved.
-* Rearranged the appearance of the graphical interface.
-* Removed instruction screen previously located in graphical interface.
-* Added "Display Help" option in the Help menu.
-  - You can now read the program manual through this menu. _(psxhelp.chm)_
-* Rewrite source code for improvement and cleanup.
-
-`v1.3.0`
-November 18, 2019
-* Added support for creating Dummy _(gargabe)_ files to fill CD/DVD discs.
-
-`v1.2.0`
-November 17, 2019
-* Added support for choosing directory to save SYSTEM.CNF file
-* Added program information screen
-* Added donation option via PayPal ;)
-
-`v1.1.0`
-November 16, 2019
-* Added full support of SYSTEM.CNF for PSOne
-* Stability corrections
-
-`v1.0.0 - Release To Manufacturing (RTM)`
-November 15, 2019
-* Added HDDUNITPOWER support _(PSTwo)_
-* Added reset option all settings
-
-`v0.50.0 - RC Version (Release Candidate)`
-November 14, 2019
-* Added full support of SYSTEM.CNF for PSTwo
-* Stability corrections
-
-`v0.10.0 - Beta Version`
-November 10, 2019
-* Initial release BETA
-
-## Compile
-* * *
-See _COMPILE_ file for how to compile and install PSX/2 CNF Creator.
-
-## Documentation
-* * *
-See _README_ for PSX/2 CNF Creator information.
-
-## License
-* * *
-This project is released under the GNU license. If you redistribute the binary or source code of PSX/2 CNF Creator, please attach file _LICENSE_ with your products.
-Review _LICENSE_ file for further details.
+`v2.0.0 - Release Version`
+November 10, 2022
+* Initial release
 
 * * *
-Copyright 2019, Laete Meireles (Axion Drak)
+Copyright 2019-2022, Laete Meireles (Axion Drak)
 
 <<[back](./)
