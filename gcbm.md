@@ -12,7 +12,7 @@ layout: default
 
 ## Official Page on GitHub (All versions released):
 * * *
-* [GCBM - GameCube Backup Manager]()
+* [GCBM - GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)
 
 ## Features
 * * *
