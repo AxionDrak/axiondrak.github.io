@@ -8,7 +8,7 @@ layout: default
 
 ## Images
 * * *
-![Tela Principal (Origem)]({{ site.url }}/assets/images//gcbm/gcbm_0012.png)![Tela Principal (Destino)]({{ site.url }}/assets/images//gcbm/gcbm_0013.png)![Tela Principal (Base de Dados)]({{ site.url }}/assets/images//gcbm/gcbm_0014.png)
+![Tela Principal (Origem)]({{ site.url }}/assets/images//gcbm/gcbm_0012.png)![Tela Principal (Destino)]({{ site.url }}/assets/images//gcbm/gcbm_0013.png)![Tela Principal (Base de Dados)]({{ site.url }}/assets/images//gcbm/gcbm_0014.png)![Tela de Configurações (Configurações)]({{ site.url }}/assets/images//gcbm/gcbm_dual_config.png)
 
 ## Official Page on GitHub (Download all released versions):
 * * *
