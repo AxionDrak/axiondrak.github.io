@@ -10,7 +10,7 @@ layout: default
 * * *
 ![Tela Principal (Origem)]({{ site.url }}/assets/images//gcbm/gcbm_0012.png)![Tela Principal (Destino)]({{ site.url }}/assets/images//gcbm/gcbm_0013.png)![Tela Principal (Base de Dados)]({{ site.url }}/assets/images//gcbm/gcbm_0014.png)
 
-## Official Page on GitHub (All versions released):
+## Official Page on GitHub (Download all released versions):
 * * *
 * [GCBM - GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)
 
@@ -50,7 +50,7 @@ layout: default
 
 ## Languages
 * * *
-* At the moment, only Brazilian Portuguese is supported (sorry :/)
+* Support for Portuguese (Brazil), English (United States) and Spanish (Spain) languages. :D
 
 ## Report Bugs
 * * *
