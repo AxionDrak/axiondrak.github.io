@@ -50,7 +50,11 @@ layout: default
 
 ## Languages
 * * *
-* Support for Portuguese (Brazil), English (United States) and Spanish (Spain) languages. :D
+* Multiple languages ​​supported:
+  * Portuguese (Brazil)
+  * English (United States)
+  * Spanish (Spain)
+  * Korean (Korea)
 
 ## Report Bugs
 * * *
