@@ -23,24 +23,24 @@ layout: default
 * Cover transfer (WiiFlow, WiiFlow Lite, WiiFlow Fusion).
 * Cover transfer (USB Loader GX, USB Loader GX Tab MOD).
 * ISO/GCM readable format transfer (FAT32 or NTFS devices).
-* Transferring games with the correct nomenclature (Game Name+ID or ID only).
+* Transferring games with the correct nomenclature (Game Name+ID or ID only). 
+***Available in "Install Game (1:1)" mode using the commercial name via 'wiitdb.xml'. The "Install Game (Scrub)" mode uses the internal nomenclature provided by the developer, that is, it does not use 'wiitdb.xml'.***
 * Game transfer via Scrub (GCReEx and DiscEx).
 * Deleting game files (Source and Destination).
 * Display of game information (region, publisher, genre, etc).
-* ESRB ratings display.
-* WiiTDB support for naming.
+* ESRB ratings display. ***File 'wiitdb.xml' required.***
+* WiiTDB support for naming. ***File 'wiitdb.xml' required.***
 * Improved GameCube ISO detection (70% accuracy) in 'internal' (Standard) mode.
-* Improved GameCube ISO detection (100% accuracy) in 'business' mode (GameTDB).
-* Global download of Disco and 3D skins (for all games listed!).
-* Individual download of skins for the selected game (Disc and 3D).
+* Improved GameCube ISO detection (100% accuracy) in 'business' mode (GameTDB). ***File 'wiitdb.xml' required.***
+* Global download of Disco and 3D covers (for all games listed!).
+* Individual download of covers for the selected game (Disc and 3D).
 * Game transfer via XCopy (1:1 copies - Standard).
 * Download the file 'wiitdb.xml' (GameTDB).
-* Plugin System (Experimental).
 * MD5 hash calculation.
-* SHA-1 Hash Calculation.
+* SHA-1 Hash calculation.
 * Automatic creation of 'games' folder (if it doesn't exist).
 * Support for ISO and GCM files.
-* Registration system.
+* LOG system.
 * More polished and functional graphical interface (UI).
 * Compatible _(tested)_ with the following operating systems (Only 64-bit systems are supported!):
   - Windows 7
