@@ -8,7 +8,7 @@ layout: default
 
 [GameTDB]({{ /assets/images/GameTDB-100.png }} )(https://www.gametdb.com/)
 
-[PayPal]({{ /assets/images/donate.gif }} )](https://www.paypal.com/donate/?hosted_button_id=MP4WGLJHAP8H2)
+[PayPal]({{ /assets/images/donate.gif }} )(https://www.paypal.com/donate/?hosted_button_id=MP4WGLJHAP8H2)
 
 ## Images
 * * *
