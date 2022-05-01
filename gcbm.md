@@ -6,9 +6,8 @@ layout: default
 * * *
 **GCBM (GameCube Backup Manager)** GCBM is a computer program intended to manage ISO and GCM files for the Nintendo GameCube console.
 
-[GameTDB]({{ /assets/images/GameTDB-100.png }} )(https://www.gametdb.com/)
-
-[PayPal]({{ /assets/images/donate.gif }} )(https://www.paypal.com/donate/?hosted_button_id=MP4WGLJHAP8H2)
+[![GameTDB](GameTDB-100.png)](https://www.gametdb.com/)
+[![paypal](donate.gif)](https://www.paypal.com/donate/?hosted_button_id=MP4WGLJHAP8H2)
 
 ## Images
 * * *
